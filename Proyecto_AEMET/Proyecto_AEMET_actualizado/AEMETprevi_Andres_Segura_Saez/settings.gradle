@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "AEMETprevi_Andres_Segura_Saez"
